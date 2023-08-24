@@ -1,7 +1,31 @@
-- 👋 Hi, I’m @anik-8teen
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently studying in computer science and engineering
-- 💞️ 
+
+## 🚀 About Me
+I'm a software Engineer...
+
+
+# Hi, I'm Mehedi Hasan Anik! 👋
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedi-hasan-anik-748a33226)
+
+
+
+## 🛠 Skills
+Javascript, HTML, Typescript, C#, ASP.NET,NestJS, PostgreSql, Microsoft SQL server...
+
+
+
+
+
+## Tech Stack
+
+**Client:** NextJS
+
+**Server:** Node, NestJs, asp.net 
+
+
 - 📫 How to reach me ... email:hasananik.mh@gmail.com
 
 <!---

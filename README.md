@@ -24,7 +24,7 @@ Javascript, HTML, Typescript, C#, ASP.NET, Laravel, NestJS, MySQL, Microsoft SQL
 **Client:** HTML, CSS, Javascript
 
 **Server:** Laravel, Asp.net, NestJs
-**Tools:**Visual Studio Code, Visual Studio
+
 
 
 - 📫 How to reach me ... email:hasananik.mh@gmail.com

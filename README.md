@@ -13,7 +13,7 @@ I'm a software Engineer...
 
 
 ## 🛠 Skills
-Javascript, HTML, Typescript, C#, ASP.NET,NestJS, PostgreSql, Microsoft SQL server...
+Javascript, HTML, Typescript, C#, ASP.NET, Laravel, NestJS, MySQL, Microsoft SQL Server, PostgreSQL...
 
 
 
@@ -21,9 +21,10 @@ Javascript, HTML, Typescript, C#, ASP.NET,NestJS, PostgreSql, Microsoft SQL serv
 
 ## Tech Stack
 
-**Client:** NextJS
+**Client:** HTML, CSS, Javascript
 
-**Server:** Node, NestJs, asp.net 
+**Server:** Laravel, Asp.net, NestJs
+**Tools:**Visual Studio Code, Visual Studio
 
 
 - 📫 How to reach me ... email:hasananik.mh@gmail.com

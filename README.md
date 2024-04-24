@@ -13,7 +13,8 @@ I'm a software Engineer...
 
 
 ## 🛠 Skills
-Javascript, HTML, Typescript, C#, ASP.NET, Laravel, NestJS, MySQL, Microsoft SQL Server, PostgreSQL...
+Javascript, HTML, CSS, PHP, C#, Laravel, ASP.NET, MySQL, Microsoft SQL Server, PostgreSQL.
+Quality Assurance, SDLC, STLC, Manual Testing, TestCase Design, API Testing.
 
 
 

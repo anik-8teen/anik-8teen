@@ -13,10 +13,10 @@ I'm a software Engineer...
 
 
 ## 🛠 Skills
-
+ HTML, CSS, PHP, Laravel, C#, ASP.NET, MySQL, Javascript, Microsoft SQL Server, PostgreSQL.
 Quality Assurance, SDLC, STLC, Manual Testing, TestCase Design, API Testing.
 
-Javascript, HTML, CSS, PHP, C#, Laravel, ASP.NET, MySQL, Microsoft SQL Server, PostgreSQL.
+
 
 
 

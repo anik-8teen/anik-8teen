@@ -23,7 +23,7 @@ Quality Assurance, SDLC, STLC, Manual Testing, TestCase Design, API Testing.
 
 
 
-## Tech Stack
+##Current Working Tech Stack
 
 **Client:** HTML, CSS, Javascript
 

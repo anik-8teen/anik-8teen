@@ -1,7 +1,5 @@
 # 👋 Hi there! Welcome to My GitHub Profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=anik-8teen&color=blue&style=flat-square)
-
 ## 🚀 About Me
 I'm a Software Engineer passionate about building web applications and ensuring software quality through manual testing.
 

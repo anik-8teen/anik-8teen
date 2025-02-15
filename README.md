@@ -12,8 +12,9 @@ I'm a Software Engineer passionate about building web applications and ensuring 
 
 ## 🛠️ Tech Stack
 ![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-005C84?logo=ajax&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
 
 ## 🛠 Skills
@@ -32,7 +33,7 @@ Quality Assurance, SDLC, STLC, Manual Testing, TestCase Design, API Testing.
 ## 💻 Current Working Tech Stack
 **Client:** HTML, CSS, JavaScript, Bootstrap, jQuery, AJAX  
 **Server:** PHP, Laravel, MySQL  
-**Other:** Software Manual Testing, .NET Architecture
+**Other Interests:** .NET Architecture, ML/DL
 
 - 📫 How to reach me: hasananik.mh@gmail.com
 

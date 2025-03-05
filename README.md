@@ -1,5 +1,4 @@
 # 👋 Hi there! Welcome to My GitHub Profile!
-
 ## 🚀 About Me
 I'm a Software Engineer passionate about building web applications and ensuring software quality through manual testing.
 

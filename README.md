@@ -1,7 +1,7 @@
 # 👋 Hi there! Welcome to My GitHub Profile!
 
 ## 🚀 About Me
-I architect scalable web ecosystems where algorithmic precision harmonizes with creative problem-solving, meticulously validating every API endpoint and database interaction. My craft lies in transmuting abstract requirements into high-availability backend architectures, balancing computational elegance with relentless performance optimization.
+I build reliable and scalable web systems that turn complex ideas into smooth digital experiences. From planning how data flows to making sure everything runs fast and secure, I focus on delivering backend solutions that are both efficient and easy to maintain.
 ---
 
 ## 🔗 Links

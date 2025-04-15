@@ -35,8 +35,7 @@ I architect scalable web ecosystems where algorithmic precision harmonizes with 
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anik-8teen&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anik-8teen&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)
 
 ---
 

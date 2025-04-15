@@ -38,14 +38,16 @@ I architect scalable web ecosystems where algorithmic precision harmonizes with 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anik-8teen&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)
 
 ---
+## 🔥 GitHub Streak Stats
 
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anik-8teen&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anik-8teen&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&sideLabels=DD2727&ring=DD2727&background=0D1117&currStreakLabel=DD2727)
 
 ---
 
 ## 🧩 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anik-8teen&layout=compact&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anik-8teen&layout=compact&theme=radical&hide_border=true&cache_seconds=300)
+
 
 ---
 
